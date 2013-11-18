@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-ruby '1.9.3'
 
 gem 'rails', '3.2.14'
 gem 'bootstrap-sass', '2.1'
@@ -31,7 +30,7 @@ group :production do
   gem 'pg', '0.12.2'
 end
 
-
+ruby '2.0.0'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
