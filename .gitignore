@@ -20,4 +20,4 @@ capybara-*.html
 .rspec
 .project
 config/initializers/secret_token.rb
-Gemfile.lock
+
